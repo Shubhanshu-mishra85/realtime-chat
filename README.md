@@ -100,3 +100,7 @@ Your Name
 ## 📄 License
 
 This project is open-source and free to use.
+
+⭐ Support
+
+If you like this project, don't forget to give it a ⭐ on GitHub!
